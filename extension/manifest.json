@@ -1,0 +1,60 @@
+{
+  "manifest_version": 2,
+  "name": "unfamiliar sounds",
+  "version": "0.1.0",
+  "description": "Shows the Spotify web player without names, faces or popularity. Off until you switch it on.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "unfamiliar-sounds@violet.local",
+      "strict_min_version": "115.0"
+    }
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "cookies",
+    "contextualIdentities",
+    "webRequest",
+    "webRequestBlocking",
+    "*://open.spotify.com/*",
+    "https://collectionapi.metmuseum.org/*",
+    "https://images.metmuseum.org/*",
+    "https://api.artic.edu/*",
+    "https://www.artic.edu/iiif/*",
+    "https://openaccess-api.clevelandart.org/*",
+    "https://openaccess-cdn.clevelandart.org/*"
+  ],
+  "background": {
+    "scripts": [
+      "core/derive.js",
+      "core/pictures.js",
+      "core/museums.js",
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "unfamiliar sounds is off",
+    "default_icon": "icons/off.svg",
+    "default_area": "navbar"
+  },
+  "icons": {
+    "48": "icons/on.svg",
+    "96": "icons/on.svg"
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "open_in_tab": true
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+D"
+      },
+      "description": "Switch unfamiliar sounds on or off"
+    }
+  },
+  "optional_permissions": [
+    "https://*/*"
+  ]
+}

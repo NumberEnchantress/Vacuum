@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>unfamiliar sounds settings</title>
+  <style>
+    body { font: 15px/1.5 system-ui, sans-serif; margin: 1.5rem; max-width: 36rem; }
+    h2 { font-size: 1rem; margin: 1.75rem 0 .4rem; }
+    h3 { font-size: .95rem; margin: 1.25rem 0 .3rem; }
+    label { display: flex; gap: .6rem; align-items: center; }
+    .note { color: #666; font-size: 13px; margin: .3rem 0; }
+    .row { display: flex; gap: .5rem; flex-wrap: wrap; margin: .5rem 0; align-items: center; }
+    code { font: 13px/1.4 ui-monospace, monospace; word-break: break-all; background: #f3f1ec; padding: .4rem .5rem; display: block; border-radius: 4px; }
+    input[type="text"] { flex: 1; min-width: 12rem; font: 13px ui-monospace, monospace; padding: .3rem .4rem; }
+    details { margin-top: 2rem; border-top: 1px solid #ddd; padding-top: .5rem; }
+    summary { font-weight: 600; cursor: pointer; }
+    .ok { color: #1d6b3a; }
+    .bad { color: #a32020; }
+  </style>
+</head>
+<body>
+  <label><input type="checkbox" id="on"> unfamiliar sounds is on</label>
+  <p class="note">Same as the toolbar button. While on, Spotify opens in the unfamiliar sounds container.</p>
+
+  <h2>Opening and closing</h2>
+  <label><input type="checkbox" id="askOnOpen"> Ask how to open Spotify links</label>
+  <p class="note">Off: while unfamiliar sounds is on, Spotify links open with it; while it is off, they open normally. On: while it is on, each Spotify link opened outside it asks first.</p>
+  <label><input type="checkbox" id="convertOffTabs"> When switched off, keep its tabs open as normal tabs</label>
+  <p class="note">Off: switching unfamiliar sounds off closes its tabs. On: they reopen as normal Spotify tabs.</p>
+
+  <h2>Descriptions</h2>
+  <label><input type="checkbox" id="hideArtistDescriptions"> Hide artist descriptions</label>
+  <label><input type="checkbox" id="hidePlaylistDescriptions"> Hide playlist descriptions</label>
+  <p class="note">Hidden descriptions show "???". Shown ones have every name unfamiliar sounds knows swapped for its stand-in; names it hasn't seen yet would show as written.</p>
+
+  <h2>Playlist titles</h2>
+  <label><input type="checkbox" id="showThemeTitles"> Show the real titles of Spotify's theme playlists</label>
+  <p class="note">Off: every playlist gets a stand-in title. On: Spotify's own playlists that unfamiliar sounds judges to be about a theme or mood ("Rainy Day Jazz") keep their real title. A title can still name an artist unfamiliar sounds has never seen (for example "Mixtape #4 &lt;artist&gt;"), which is why this is off by default.</p>
+
+  <h2>You</h2>
+  <label><input type="checkbox" id="replaceOwnProfile"> Replace my own name and picture</label>
+  <p class="note">Off: your name and profile picture stay as they are.</p>
+  <label><input type="checkbox" id="replaceOwnPlaylists"> Change my own playlists</label>
+  <p class="note">Off: your playlists keep their titles and descriptions, and keep any picture you uploaded; only Spotify's automatic covers (album collages and single album covers) are replaced. On: their titles, descriptions and pictures are all replaced, like everyone else's.</p>
+
+  <h2>Hidden pages</h2>
+  <label><input type="checkbox" id="hidePages"> Hide pages about a person or about popularity</label>
+  <p class="note">Discographies, "This Is" playlists, charts and similar pages are covered by a short notice with a "Show anyway" button. Off: they are shown (with stand-in names, as everywhere).</p>
+
+  <details id="advanced">
+    <summary>Advanced</summary>
+
+    <h3>Seed</h3>
+    <p class="note">Every stand-in name and picture comes from a seed. By default everyone shares one built-in seed, so everyone sees the same stand-ins. You can use your own instead; the built-in one is never shown.</p>
+    <p id="seedStatus" class="note">…</p>
+    <div id="customSeed" hidden>
+      <code id="seedText">••••••••</code>
+      <div class="row">
+        <button id="showSeed">Show</button>
+        <button id="copySeed">Copy</button>
+        <button id="saveSeed">Save to a file</button>
+        <button id="defaultSeed">Go back to the shared seed</button>
+      </div>
+    </div>
+    <div class="row">
+      <input type="text" id="newSeed" placeholder="A new seed: any text, at least 8 characters" autocomplete="off" spellcheck="false">
+      <button id="randomSeed">Random</button>
+      <button id="useSeed">Use this seed</button>
+    </div>
+    <p class="note">A seed saved to a file can be pasted here, whole file or just the seed.</p>
+    <p id="seedMessage" class="note"></p>
+    <p class="note">Seed check: a test song is called <strong id="check">…</strong>. Two browsers with the same seed show the same words here.</p>
+
+    <h3>Picture library</h3>
+    <label><input type="radio" name="pictureSource" value="museums"> Artworks from The Met, the Art Institute of Chicago and the Cleveland Museum of Art</label>
+    <label><input type="radio" name="pictureSource" value="custom"> My own list of images</label>
+    <label><input type="radio" name="pictureSource" value="generated"> Generated shapes and rings only (works offline)</label>
+    <p class="note">Whatever the library, a generated picture shows while a library picture is on its way, and stays if it can't be fetched (offline, or a broken link), so no gaps and nothing real appear. The museums learn only which artwork was asked for, never which music.</p>
+
+    <h3>My own list of images</h3>
+    <p class="note">A CSV, TSV or text file with one image address (https://…) per line; other columns are ignored. Each release, artist or playlist gets the list entry picked by the seed and its Spotify ID. Changing the list changes the pictures.</p>
+    <div class="row">
+      <input type="file" id="libraryFile" accept=".csv,.tsv,.txt,text/csv,text/plain,text/tab-separated-values">
+      <button id="useLibrary" disabled>Use this list</button>
+    </div>
+    <p id="libraryStatus" class="note"></p>
+
+    <h3>Word list</h3>
+    <p id="wordlist" class="note">Checking…</p>
+
+    <h3>Playlist verdicts (temporary)</h3>
+    <p class="note">How many playlists unfamiliar sounds has judged as each kind since the last reset. Only counts are shown; unfamiliar sounds stores playlist IDs and verdicts, never titles. Theme playlists are shown, the rest hidden.</p>
+    <p id="verdicts" class="note">None yet.</p>
+    <div class="row"><button id="resetVerdicts">Reset</button></div>
+  </details>
+
+  <script src="../core/derive.js"></script>
+  <script src="options.js"></script>
+</body>
+</html>

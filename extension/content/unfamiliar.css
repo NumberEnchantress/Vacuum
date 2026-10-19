@@ -1,0 +1,99 @@
+/* unfamiliar sounds page styles. Injected at document_start, only while unfamiliar sounds is on and
+   only in the unfamiliar sounds container. */
+
+/* Nothing on the page is shown until unfamiliar sounds has its key and word list and has
+   processed what is already there. If it cannot start, the page stays hidden. */
+html:not([data-unfamiliar-ready]) body {
+  opacity: 0 !important;
+}
+
+html[data-unfamiliar-error]::before {
+  content: "unfamiliar sounds could not start: " attr(data-unfamiliar-error);
+  display: block;
+  padding: 16px;
+  font: 14px/1.4 system-ui, sans-serif;
+  color: #f2f2f2;
+  background: #121212;
+}
+
+/* Pictures. An image is invisible unless unfamiliar sounds has given it a generated
+   picture (data-unfamiliar-img). React may swap in a real src at any moment; the
+   content script swaps it back before the next paint. The cookie banner is
+   left alone. */
+img:not([data-unfamiliar-img]):not(#onetrust-consent-sdk img),
+video,
+svg image {
+  opacity: 0 !important;
+}
+
+/* Inline background images (artist banners, header backdrops) are replaced. */
+[style*="url("]:not(:root, [data-testid="background-image"], [data-unfamiliar-poster], [data-unfamiliar-backdrop], #onetrust-consent-sdk, #onetrust-consent-sdk *) {
+  background-image: none !important;
+}
+
+/* The header banner shows the page's own picture (set by the content script). */
+[data-testid="background-image"][style*="url("] {
+  background-image: var(--unfamiliar-backdrop, none) !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+/* The artist's About card: the page's own picture under Spotify's shade. */
+[data-unfamiliar-backdrop][style*="url("] {
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%), var(--unfamiliar-backdrop, none) !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+/* Behind a hidden video: a generated picture (set by the content script). */
+[data-unfamiliar-poster] {
+  background-image: var(--unfamiliar-poster, none) !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+/* Search suggestions that are only words ("justice league") come from the
+   real name behind a stand-in; they are left out. Rows for songs, artists
+   and so on stay. */
+[role="listbox"] [data-encore-id="listRow"]:has(a[href^="/search/"]) {
+  display: none !important;
+}
+
+/* Stage 5: shelves, cards and lists about a person or about popularity. */
+[data-unfamiliar-hide] {
+  display: none !important;
+}
+
+/* Whole pages about a person or about popularity: a short notice instead. */
+html[data-unfamiliar-page="hidden"] main > * {
+  display: none !important;
+}
+#unfamiliar-notice {
+  position: fixed;
+  z-index: 50;
+  box-sizing: border-box;
+  padding: 64px 32px;
+  background: #121212;
+  border-radius: 8px;
+  color: #a7a7a7;
+  font: 16px/1.5 system-ui, sans-serif;
+}
+#unfamiliar-notice button {
+  margin-top: 12px;
+  padding: 8px 20px;
+  border: 1px solid #727272;
+  border-radius: 999px;
+  background: transparent;
+  color: #f2f2f2;
+  font: inherit;
+  font-size: 14px;
+  cursor: pointer;
+}
+#unfamiliar-notice button:hover { border-color: #f2f2f2; }
+
+/* Artworks get a thin light outline, drawn by the browser at any size (it
+   follows the round crop of artist pictures). */
+img[data-unfamiliar-art] {
+  outline: 1px solid rgba(255, 255, 255, 0.4) !important;
+  outline-offset: -1px !important;
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Open this Spotify link how?</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #121212; color: #f2f2f2; font: 16px/1.5 system-ui, sans-serif; }
+    main { max-width: 32rem; padding: 32px; }
+    h1 { font-size: 20px; margin: 0 0 8px; }
+    p { color: #a7a7a7; margin: 0 0 24px; word-break: break-all; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; }
+    button { padding: 10px 22px; border-radius: 999px; font: inherit; font-size: 15px; cursor: pointer; border: 1px solid #727272; background: transparent; color: #f2f2f2; }
+    button.primary { background: #f2f2f2; color: #121212; border-color: #f2f2f2; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Open this Spotify link how?</h1>
+    <p id="link"></p>
+    <div class="row">
+      <button id="us" class="primary">With unfamiliar sounds</button>
+      <button id="normal">Normally</button>
+    </div>
+  </main>
+  <script src="prompt.js"></script>
+</body>
+</html>
