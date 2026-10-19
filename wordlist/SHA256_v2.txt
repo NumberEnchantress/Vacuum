@@ -1,0 +1,2 @@
+v2
+7296329b39fb7f5f17bcf4016d0c0b681d093c2e80b590fed2a67b1185fd7b6b  wordlist_v2.tsv

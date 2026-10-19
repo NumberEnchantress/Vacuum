@@ -1,0 +1,7 @@
+# Words that look like inflected forms or family members but are kept in v2.
+# Add one lowercase word per line, then rebuild.
+alas
+greeting
+dwelling
+stove
+crooked

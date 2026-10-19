@@ -1,0 +1,10 @@
+# Words added to the slur list at review (not in LDNOOBW). One per line.
+dyke
+wop
+honky
+cracker
+midget
+retard
+gypsy
+moron
+cripple

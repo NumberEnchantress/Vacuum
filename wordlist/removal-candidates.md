@@ -1,0 +1,1771 @@
+# Removal candidates (for review, nothing removed yet)
+
+- Inflected forms whose base is also in the list: 815
+- Word families sharing a stem (Porter): 946 groups, 2068 words
+
+## Inflected forms of a base already in the list
+
+- abiding (base: abide)
+- abruptly (base: abrupt)
+- accrued (base: accrue)
+- accuser (base: accuse)
+- accusing (base: accuse)
+- aching (base: ache)
+- adored (base: adore)
+- adoring (base: adore)
+- adorned (base: adorn)
+- aerobics (base: aerobic)
+- aided (base: aide)
+- alas (base: ala)
+- alienated (base: alienate)
+- aligning (base: align)
+- allotted (base: allot)
+- alluring (base: allure)
+- amends (base: amend)
+- amused (base: amuse)
+- amusing (base: amuse)
+- animating (base: animate)
+- aptly (base: apt)
+- armoured (base: armour)
+- aroused (base: arouse)
+- ascending (base: ascend)
+- aspiring (base: aspire)
+- asserted (base: assert)
+- asserting (base: assert)
+- assigning (base: assign)
+- attained (base: attain)
+- attested (base: attest)
+- augmented (base: augment)
+- avenged (base: avenge)
+- avenger (base: avenge)
+- awaited (base: await)
+- awakened (base: awaken)
+- awakening (base: awaken)
+- babbling (base: babble)
+- barbed (base: barb)
+- bathing (base: bathe)
+- battered (base: batter)
+- battering (base: batter)
+- beaded (base: bead)
+- beads (base: bead)
+- beaker (base: beak)
+- beholder (base: behold)
+- bellows (base: bellow)
+- bigoted (base: bigot)
+- billiards (base: billiard)
+- binder (base: bind)
+- blatantly (base: blatant)
+- blazer (base: blaze)
+- blazing (base: blaze)
+- bleached (base: bleach)
+- bleachers (base: bleach)
+- blighted (base: blight)
+- blinking (base: blink)
+- blinks (base: blink)
+- blurred (base: blur)
+- blushing (base: blush)
+- boasting (base: boast)
+- bowels (base: bowel)
+- boxers (base: boxer)
+- braced (base: brace)
+- braces (base: brace)
+- bracing (base: brace)
+- bragging (base: brag)
+- braided (base: braid)
+- breakers (base: breaker)
+- brewer (base: brew)
+- brewing (base: brew)
+- brimming (base: brim)
+- brooding (base: brood)
+- browsing (base: browse)
+- bruising (base: bruise)
+- bulging (base: bulge)
+- bumbling (base: bumble)
+- bummer (base: bum)
+- bunker (base: bunk)
+- buns (base: bun)
+- bunting (base: bunt)
+- burly (base: bur)
+- bustling (base: bustle)
+- butcher (base: butch)
+- candidly (base: candid)
+- carver (base: carve)
+- carving (base: carve)
+- caster (base: caste)
+- catering (base: cater)
+- censored (base: censor)
+- censoring (base: censor)
+- ceramics (base: ceramic)
+- chanted (base: chant)
+- chanting (base: chant)
+- checkered (base: checker)
+- checkers (base: checker)
+- cherished (base: cherish)
+- chewing (base: chew)
+- choked (base: choke)
+- choking (base: choke)
+- chopper (base: chop)
+- churning (base: churn)
+- cladding (base: clad)
+- clams (base: clam)
+- clapper (base: clap)
+- clapping (base: clap)
+- clawed (base: claw)
+- cleanser (base: cleanse)
+- cleansing (base: cleanse)
+- cleaver (base: cleave)
+- clinched (base: clinch)
+- cloaked (base: cloak)
+- clogged (base: clog)
+- clogging (base: clog)
+- cloning (base: clone)
+- clothed (base: clothe)
+- clotting (base: clot)
+- clover (base: clove)
+- cluttered (base: clutter)
+- coiled (base: coil)
+- collider (base: collide)
+- collier (base: collie)
+- colonized (base: colonize)
+- combed (base: comb)
+- combing (base: comb)
+- comically (base: comical)
+- commuter (base: commute)
+- commuting (base: commute)
+- compiler (base: compile)
+- compiling (base: compile)
+- composing (base: compose)
+- concealed (base: conceal)
+- conceding (base: concede)
+- conceited (base: conceit)
+- confines (base: confine)
+- conjuring (base: conjure)
+- conserved (base: conserve)
+- contender (base: contend)
+- convening (base: convene)
+- cotter (base: cot)
+- covertly (base: covert)
+- coveted (base: covet)
+- cowardly (base: coward)
+- crabs (base: crab)
+- crackling (base: crackle)
+- cramped (base: cramp)
+- crater (base: crate)
+- craved (base: crave)
+- craving (base: crave)
+- crawler (base: crawl)
+- crawling (base: crawl)
+- crazed (base: craze)
+- crested (base: crest)
+- crooked (base: crook)
+- crusader (base: crusade)
+- cuddling (base: cuddle)
+- cured (base: cur)
+- curing (base: cur)
+- curled (base: curl)
+- curling (base: curl)
+- curly (base: cur)
+- dagger (base: dag)
+- dally (base: dal)
+- damper (base: damp)
+- dangling (base: dangle)
+- darkened (base: darken)
+- darkening (base: darken)
+- darts (base: dart)
+- dazed (base: daze)
+- dazzled (base: dazzle)
+- dazzling (base: dazzle)
+- decoder (base: decode)
+- decoding (base: decode)
+- deepening (base: deepen)
+- defiantly (base: defiant)
+- deftly (base: deft)
+- degraded (base: degrade)
+- degrading (base: degrade)
+- dented (base: dent)
+- depicted (base: depict)
+- depicting (base: depict)
+- deprived (base: deprive)
+- deriving (base: derive)
+- despised (base: despise)
+- devising (base: devise)
+- devouring (base: devour)
+- dictated (base: dictate)
+- diffuser (base: diffuse)
+- diluted (base: dilute)
+- dimly (base: dim)
+- dimmed (base: dim)
+- diner (base: din)
+- disabling (base: disable)
+- disarming (base: disarm)
+- discarded (base: discard)
+- disgraced (base: disgrace)
+- disguised (base: disguise)
+- disgusted (base: disgust)
+- dismayed (base: dismay)
+- dispensed (base: dispense)
+- dispenser (base: dispense)
+- dispersed (base: disperse)
+- disposed (base: dispose)
+- disrupted (base: disrupt)
+- dissected (base: dissect)
+- distorted (base: distort)
+- divers (base: diver)
+- diverted (base: divert)
+- diverting (base: divert)
+- dolly (base: dol)
+- dominoes (base: domino)
+- downwards (base: downward)
+- dreaded (base: dread)
+- dribbling (base: dribble)
+- dripping (base: drip)
+- dubbing (base: dub)
+- dweller (base: dwell)
+- dwelling (base: dwell)
+- earnestly (base: earnest)
+- eerily (base: eerie)
+- elicited (base: elicit)
+- elongated (base: elongate)
+- eminently (base: eminent)
+- emitter (base: emit)
+- empowered (base: empower)
+- enclosed (base: enclose)
+- enclosing (base: enclose)
+- encoding (base: encode)
+- enlarged (base: enlarge)
+- enlisting (base: enlist)
+- enquirer (base: enquire)
+- ensuing (base: ensue)
+- enticing (base: entice)
+- equating (base: equate)
+- equipping (base: equip)
+- eraser (base: erase)
+- erecting (base: erect)
+- eroded (base: erode)
+- eroding (base: erode)
+- etched (base: etch)
+- etching (base: etch)
+- evoked (base: evoke)
+- expelling (base: expel)
+- fabled (base: fable)
+- faceted (base: facet)
+- factually (base: factual)
+- faded (base: fad)
+- fading (base: fad)
+- falconer (base: falcon)
+- farting (base: fart)
+- fastened (base: fasten)
+- fastening (base: fasten)
+- feathered (base: feather)
+- fender (base: fend)
+- fervently (base: fervent)
+- fetching (base: fetch)
+- fiddler (base: fiddle)
+- fiddling (base: fiddle)
+- finer (base: fin)
+- flapping (base: flap)
+- flaps (base: flap)
+- flattened (base: flatten)
+- flawed (base: flaw)
+- flicker (base: flick)
+- flirting (base: flirt)
+- fluently (base: fluent)
+- foiled (base: foil)
+- foraging (base: forage)
+- foregoing (base: forego)
+- forensics (base: forensic)
+- forfeited (base: forfeit)
+- fowler (base: fowl)
+- frayed (base: fray)
+- fulfilled (base: fulfil)
+- fumbling (base: fumble)
+- furnished (base: furnish)
+- fused (base: fuse)
+- fuss (base: fuse)
+- genitals (base: genital)
+- gladly (base: glade)
+- glaring (base: glare)
+- glazed (base: glaze)
+- gleaming (base: gleam)
+- glider (base: glide)
+- gliding (base: glide)
+- graded (base: grad)
+- grader (base: grad)
+- grading (base: grad)
+- grafting (base: graft)
+- granger (base: grange)
+- grappling (base: grapple)
+- grating (base: grate)
+- grazed (base: graze)
+- grazing (base: graze)
+- greased (base: grease)
+- greeting (base: greet)
+- grieving (base: grieve)
+- grilled (base: grille)
+- grilling (base: grille)
+- grinning (base: grin)
+- grits (base: grit)
+- groomed (base: groom)
+- grooming (base: groom)
+- growling (base: growl)
+- grumbling (base: grumble)
+- gushing (base: gush)
+- harassed (base: harass)
+- hardened (base: harden)
+- hardening (base: harden)
+- harmonics (base: harmonic)
+- harnessed (base: harness)
+- harrowing (base: harrow)
+- haunting (base: haunt)
+- heaps (base: heap)
+- heaving (base: heave)
+- hedging (base: hedge)
+- hijacking (base: hijack)
+- hinder (base: hind)
+- hindering (base: hinder)
+- hippies (base: hippie)
+- hipsters (base: hipster)
+- hissing (base: hiss)
+- hives (base: hive)
+- hoarding (base: hoard)
+- hoops (base: hoop)
+- howling (base: howl)
+- huddled (base: huddle)
+- humanly (base: humane)
+- hummer (base: hum)
+- humming (base: hum)
+- hunched (base: hunch)
+- hurdles (base: hurdle)
+- hurling (base: hurl)
+- hurriedly (base: hurried)
+- hushed (base: hush)
+- hustler (base: hustle)
+- hydrated (base: hydrate)
+- idling (base: idle)
+- ignited (base: ignite)
+- impaired (base: impair)
+- impeded (base: impede)
+- impeding (base: impede)
+- implanted (base: implant)
+- incensed (base: incense)
+- incurring (base: incur)
+- inducing (base: induce)
+- indulging (base: indulge)
+- inflated (base: inflate)
+- inhabited (base: inhabit)
+- inhaler (base: inhale)
+- inhibited (base: inhibit)
+- inquirer (base: inquire)
+- inquiring (base: inquire)
+- insured (base: insure)
+- insurer (base: insure)
+- intruder (base: intrude)
+- invader (base: invade)
+- invading (base: invade)
+- inversely (base: inverse)
+- inwards (base: inward)
+- irritated (base: irritate)
+- isolating (base: isolate)
+- itching (base: itch)
+- jagged (base: jag)
+- jester (base: jest)
+- jeweler (base: jewel)
+- jogging (base: jog)
+- juggling (base: juggle)
+- kidnapper (base: kidnap)
+- kinetics (base: kinetic)
+- kneeling (base: kneel)
+- knitted (base: knit)
+- knitting (base: knit)
+- knotted (base: knot)
+- knuckles (base: knuckle)
+- laced (base: lac)
+- lager (base: lag)
+- lagging (base: lag)
+- lamented (base: lament)
+- lamenting (base: lament)
+- lapsed (base: lapse)
+- lashing (base: lash)
+- laterally (base: lateral)
+- laurels (base: laurel)
+- lavishly (base: lavish)
+- lawfully (base: lawful)
+- ledger (base: ledge)
+- leftovers (base: leftover)
+- lessened (base: lessen)
+- lessening (base: lessen)
+- lever (base: lev)
+- liberated (base: liberate)
+- licked (base: lick)
+- licking (base: lick)
+- limping (base: limp)
+- linger (base: ling)
+- lingering (base: linger)
+- liter (base: lite)
+- littered (base: litter)
+- loathing (base: loathe)
+- lodgings (base: lodging)
+- loosened (base: loosen)
+- loosening (base: loosen)
+- looted (base: loot)
+- looting (base: loot)
+- luster (base: lust)
+- lyrically (base: lyrical)
+- maddening (base: madden)
+- manly (base: mane)
+- matted (base: matte)
+- meddling (base: meddle)
+- mediated (base: mediate)
+- menacing (base: menace)
+- mending (base: mend)
+- merged (base: merge)
+- merging (base: merge)
+- milled (base: mil)
+- milling (base: mil)
+- mingling (base: mingle)
+- misused (base: misuse)
+- mitigated (base: mitigate)
+- molded (base: mold)
+- molding (base: mold)
+- mooring (base: moor)
+- moped (base: mop)
+- mopping (base: mop)
+- morally (base: morale)
+- morals (base: morale)
+- moulding (base: mould)
+- mourning (base: mourn)
+- mower (base: mow)
+- muddled (base: muddle)
+- mugging (base: mug)
+- muller (base: mull)
+- mumbling (base: mumble)
+- murmuring (base: murmur)
+- muted (base: mute)
+- mutter (base: mutt)
+- muttering (base: mutter)
+- nagging (base: nag)
+- nestled (base: nestle)
+- neutered (base: neuter)
+- nodding (base: nod)
+- nominally (base: nominal)
+- nourished (base: nourish)
+- numbing (base: numb)
+- obliged (base: oblige)
+- offender (base: offend)
+- offending (base: offend)
+- onwards (base: onward)
+- oozing (base: ooze)
+- oppressed (base: oppress)
+- optics (base: optic)
+- organiser (base: organise)
+- orphaned (base: orphan)
+- outlawed (base: outlaw)
+- outwardly (base: outward)
+- outwards (base: outward)
+- overseer (base: oversee)
+- overtly (base: overt)
+- panting (base: pant)
+- passer (base: pas)
+- paved (base: pave)
+- paving (base: pave)
+- pearly (base: pear)
+- peddling (base: peddle)
+- perverted (base: pervert)
+- pickled (base: pickle)
+- pinched (base: pinch)
+- piper (base: pip)
+- piping (base: pip)
+- plastered (base: plaster)
+- plating (base: plat)
+- platter (base: plat)
+- playfully (base: playful)
+- pleading (base: plead)
+- ploughed (base: plough)
+- ploughing (base: plough)
+- plowed (base: plow)
+- plowing (base: plow)
+- plucked (base: pluck)
+- plumber (base: plumb)
+- plumbing (base: plumb)
+- plundered (base: plunder)
+- plunger (base: plunge)
+- poetics (base: poetic)
+- poised (base: poise)
+- poking (base: poke)
+- polluted (base: pollute)
+- pondering (base: ponder)
+- posturing (base: posture)
+- practised (base: practise)
+- preacher (base: preach)
+- preaching (base: preach)
+- preceding (base: precede)
+- prickly (base: prick)
+- primed (base: prim)
+- primer (base: prim)
+- priming (base: prim)
+- professed (base: profess)
+- pronged (base: prong)
+- propeller (base: propel)
+- props (base: prop)
+- provoked (base: provoke)
+- provoking (base: provoke)
+- pruning (base: prune)
+- prying (base: pry)
+- puffed (base: puff)
+- puffing (base: puff)
+- puking (base: puke)
+- punctured (base: puncture)
+- punter (base: punt)
+- purging (base: purge)
+- purifying (base: purify)
+- puss (base: pus)
+- putter (base: putt)
+- quaker (base: quake)
+- quilted (base: quilt)
+- radiating (base: radiate)
+- rafts (base: raft)
+- ragged (base: rag)
+- raging (base: rag)
+- rambling (base: ramble)
+- ranting (base: rant)
+- rationing (base: ration)
+- rattled (base: rattle)
+- rattling (base: rattle)
+- raving (base: rave)
+- reaper (base: reap)
+- reassured (base: reassure)
+- recessed (base: recess)
+- reckoning (base: reckon)
+- reclaimed (base: reclaim)
+- recycling (base: recycle)
+- redeemed (base: redeem)
+- redeemer (base: redeem)
+- redeeming (base: redeem)
+- refining (base: refine)
+- refreshed (base: refresh)
+- refresher (base: refresh)
+- refueling (base: refuel)
+- regaining (base: regain)
+- rejoicing (base: rejoice)
+- reliever (base: relieve)
+- reliving (base: relive)
+- relocated (base: relocate)
+- renewing (base: renew)
+- repressed (base: repress)
+- retracted (base: retract)
+- retriever (base: retrieve)
+- revered (base: revere)
+- reverting (base: revert)
+- revising (base: revise)
+- revived (base: revive)
+- reviving (base: revive)
+- revolting (base: revolt)
+- revolved (base: revolve)
+- revolver (base: revolve)
+- rewriting (base: rewrite)
+- rhyming (base: rhyme)
+- ribbed (base: rib)
+- riddled (base: riddle)
+- roaring (base: roar)
+- robotics (base: robotic)
+- rockers (base: rocker)
+- rooster (base: roost)
+- rotated (base: rotate)
+- rotted (base: rot)
+- rotting (base: rot)
+- rousing (base: rouse)
+- router (base: rout)
+- rover (base: rove)
+- roving (base: rove)
+- rudder (base: rudd)
+- ruffled (base: ruffle)
+- rugged (base: rug)
+- rumbling (base: rumble)
+- rusted (base: rust)
+- saddled (base: saddle)
+- sagging (base: sag)
+- scarcely (base: scarce)
+- scarred (base: scar)
+- scatter (base: scat)
+- scissors (base: scissor)
+- scolding (base: scold)
+- scooter (base: scoot)
+- scorned (base: scorn)
+- scoured (base: scour)
+- scouring (base: scour)
+- scrambled (base: scramble)
+- scraper (base: scrape)
+- scraping (base: scrape)
+- scraps (base: scrape)
+- scrubbed (base: scrub)
+- scrubbing (base: scrub)
+- scrubs (base: scrub)
+- sculpted (base: sculpt)
+- semantics (base: semantic)
+- sensed (base: sens)
+- sensing (base: sens)
+- severed (base: sever)
+- severing (base: sever)
+- sewed (base: sew)
+- sewer (base: sew)
+- sewing (base: sew)
+- shaded (base: shad)
+- shading (base: shad)
+- shamed (base: sham)
+- sharpened (base: sharpen)
+- shattered (base: shatter)
+- shearer (base: shear)
+- shearing (base: shear)
+- shears (base: shear)
+- shingles (base: shingle)
+- shiver (base: shiv)
+- shivering (base: shiver)
+- shortened (base: shorten)
+- shredded (base: shred)
+- shredder (base: shred)
+- shrieking (base: shriek)
+- shrinking (base: shrink)
+- shuffling (base: shuffle)
+- sifting (base: sift)
+- simmering (base: simmer)
+- simulated (base: simulate)
+- sizzling (base: sizzle)
+- skater (base: skate)
+- skewed (base: skew)
+- skimmed (base: skim)
+- skimming (base: skim)
+- slacker (base: slack)
+- slacking (base: slack)
+- slacks (base: slack)
+- slanted (base: slant)
+- slashed (base: slash)
+- slasher (base: slash)
+- slashing (base: slash)
+- slayer (base: slay)
+- slaying (base: slay)
+- slinging (base: sling)
+- slugger (base: slug)
+- smacking (base: smack)
+- smelter (base: smelt)
+- smothered (base: smother)
+- smuggled (base: smuggle)
+- smuggler (base: smuggle)
+- smuggling (base: smuggle)
+- sneezing (base: sneeze)
+- sniper (base: snip)
+- snoring (base: snore)
+- snorting (base: snort)
+- soaked (base: soak)
+- soaking (base: soak)
+- soaring (base: soar)
+- sobbing (base: sob)
+- softened (base: soften)
+- softening (base: soften)
+- soldering (base: solder)
+- solemnly (base: solemn)
+- soothing (base: soothe)
+- spanking (base: spank)
+- sparing (base: spar)
+- sparingly (base: sparing)
+- sparkling (base: sparkle)
+- sparring (base: spar)
+- sparsely (base: sparse)
+- spatially (base: spatial)
+- specs (base: spec)
+- splicing (base: splice)
+- splinters (base: splinter)
+- spouting (base: spout)
+- sprawling (base: sprawl)
+- sprinkler (base: sprinkle)
+- sprinkles (base: sprinkle)
+- sprites (base: sprite)
+- sprouted (base: sprout)
+- sprouting (base: sprout)
+- squashed (base: squash)
+- squatting (base: squat)
+- squirting (base: squirt)
+- stagger (base: stag)
+- staging (base: stag)
+- staining (base: stain)
+- stalked (base: stalk)
+- stalker (base: stalk)
+- stalking (base: stalk)
+- starved (base: starve)
+- stifled (base: stifle)
+- stifling (base: stifle)
+- stinking (base: stink)
+- stitched (base: stitch)
+- stitching (base: stitch)
+- stoker (base: stoke)
+- straits (base: strait)
+- stranded (base: strand)
+- strangled (base: strangle)
+- striped (base: stripe)
+- stripes (base: stripe)
+- striving (base: strive)
+- stroller (base: stroll)
+- studded (base: stud)
+- stunned (base: stun)
+- stunner (base: stun)
+- subdued (base: subdue)
+- summoning (base: summon)
+- summons (base: summon)
+- supper (base: sup)
+- swagger (base: swag)
+- sweetened (base: sweeten)
+- sweetener (base: sweeten)
+- swelled (base: swell)
+- swelling (base: swell)
+- tailored (base: tailor)
+- tailoring (base: tailor)
+- tainted (base: taint)
+- tamed (base: tam)
+- tampering (base: tamper)
+- tangled (base: tangle)
+- tapered (base: taper)
+- tapering (base: taper)
+- taunting (base: taunt)
+- teased (base: tease)
+- teaser (base: tease)
+- teasing (base: tease)
+- tempting (base: tempt)
+- tethered (base: tether)
+- thrashing (base: thrash)
+- thrilling (base: thrill)
+- thriving (base: thrive)
+- thumping (base: thump)
+- thwarted (base: thwart)
+- tickling (base: tickle)
+- tiled (base: tile)
+- tiling (base: tile)
+- tilted (base: tilt)
+- tingling (base: tingle)
+- tormented (base: torment)
+- trader (base: trad)
+- trappings (base: trapping)
+- trembling (base: tremble)
+- trimmings (base: trimming)
+- trolling (base: troll)
+- trooper (base: troop)
+- trotter (base: trot)
+- trumpets (base: trumpet)
+- tucked (base: tuck)
+- tumbler (base: tumble)
+- tumbling (base: tumble)
+- tuner (base: tun)
+- tuning (base: tun)
+- twinkling (base: twinkle)
+- twitching (base: twitch)
+- uncovered (base: uncover)
+- undoing (base: undo)
+- undressed (base: undress)
+- unduly (base: undue)
+- unfolding (base: unfold)
+- unifying (base: unify)
+- unjustly (base: unjust)
+- unloaded (base: unload)
+- unloading (base: unload)
+- unveiled (base: unveil)
+- unveiling (base: unveil)
+- uplifting (base: uplift)
+- upwards (base: upward)
+- utilised (base: utilise)
+- validated (base: validate)
+- vanished (base: vanish)
+- vanishing (base: vanish)
+- vapors (base: vapor)
+- veiled (base: veil)
+- vested (base: vest)
+- vexed (base: vex)
+- vividly (base: vivid)
+- vomiting (base: vomit)
+- voucher (base: vouch)
+- wading (base: wad)
+- wager (base: wag)
+- wailing (base: wail)
+- waiver (base: waive)
+- wander (base: wand)
+- wanderer (base: wander)
+- waning (base: wane)
+- wanker (base: wank)
+- warped (base: warp)
+- warping (base: warp)
+- wavering (base: waver)
+- weakened (base: weaken)
+- weakening (base: weaken)
+- weaver (base: weave)
+- weaving (base: weave)
+- wedded (base: wed)
+- wedged (base: wedge)
+- weeping (base: weep)
+- welder (base: weld)
+- welding (base: weld)
+- whacked (base: whack)
+- whiskers (base: whisk)
+- whispered (base: whisper)
+- whisperer (base: whisper)
+- whiting (base: whit)
+- wicker (base: wick)
+- widening (base: widen)
+- willfully (base: willful)
+- winking (base: wink)
+- withered (base: wither)
+- withering (base: wither)
+- withers (base: wither)
+- worsened (base: worsen)
+- worsening (base: worsen)
+- wrenching (base: wrench)
+- wrestler (base: wrestle)
+- wretched (base: wretch)
+- wrinkled (base: wrinkle)
+- yawning (base: yawn)
+- yearning (base: yearn)
+
+## Word families sharing a stem
+
+- abide, abiding
+- abrasion, abrasive
+- absorbent, absorbing
+- accrue, accrued
+- accuse, accuser, accusing
+- ache, aching
+- acidic, acidity
+- activate, activator, activism
+- adaptable, adapter, adaptive
+- addict, addictive
+- adhere, adherence
+- adhesion, adhesive
+- admirable, admirably, admired, admirer
+- adoration, adore, adored, adoring
+- adorn, adorned
+- adversely, adversity
+- aerobic, aerobics
+- agile, agility
+- agitated, agitation
+- aide, aided
+- airing, airs
+- ala, alas
+- alarmed, alarming
+- alerting, alertness
+- alienate, alienated
+- align, aligning
+- allot, allotment, allotted
+- allure, alluring
+- amaze, amazement
+- ambiguity, ambiguous
+- amenable, amenities, amenity
+- amend, amends
+- amplifier, amplify
+- amuse, amused, amusement, amusing
+- analog, analogous, analogy
+- anecdotal, anecdote
+- angled, angling
+- animate, animating, animator
+- annoy, annoyance
+- appalled, appalling
+- appellant, appellate
+- appraisal, appraiser
+- argyle, argyll
+- armour, armoured
+- arousal, arouse, aroused
+- arrogance, arrogant
+- arterial, artery
+- ascend, ascendant, ascending
+- aspire, aspiring
+- assert, asserted, asserting, assertion, assertive
+- assign, assigning
+- atone, atonement
+- attain, attained
+- attest, attested
+- augment, augmented
+- auntie, aunty
+- austere, austerity
+- avenge, avenged, avenger
+- averse, aversion
+- avoidable, avoidance
+- await, awaited
+- awaken, awakened, awakening
+- babble, babbling
+- baffled, baffling
+- banded, banding
+- barb, barbed
+- barbaric, barbarism
+- barred, barring
+- bathe, bathing
+- batter, battered, battering
+- bead, beaded, beads
+- beheaded, beheading
+- behold, beholder
+- bellow, bellows
+- belted, belting
+- bending, bends
+- betray, betrayal
+- bigot, bigoted
+- billed, billing
+- billiard, billiards
+- blasted, blasting
+- blaze, blazing
+- bleach, bleached
+- blended, blending
+- blight, blighted
+- blinded, blinding, blindness
+- blink, blinking, blinks
+- blur, blurred
+- blush, blushing
+- boast, boasting
+- boiled, boiling
+- bonnie, bonny
+- borrower, borrowing
+- botanic, botanical
+- bounded, bounds
+- bountiful, bounty
+- bowed, bowing
+- bowel, bowels
+- boxer, boxers
+- brace, braced, braces, bracing
+- brag, bragging
+- braid, braided
+- branched, branching
+- breaker, breakers
+- brew, brewing
+- briefing, briefs
+- brim, brimming
+- brood, brooding
+- browse, browsing
+- bruise, bruising
+- brushed, brushing
+- brutality, brutally
+- bubbling, bubbly
+- bulge, bulging
+- bumble, bumbling
+- bun, buns
+- bunt, bunting
+- bustle, bustling
+- calibrate, calibre
+- caliph, caliphate
+- calming, calmness
+- captive, captivity
+- carve, carving
+- cater, catering
+- causal, causality
+- cavern, cavernous
+- censor, censored, censoring
+- ceramic, ceramics
+- chant, chanted, chanting
+- checker, checkered, checkers
+- cherish, cherished
+- chew, chewing
+- chilli, chilly
+- choke, choked, choking
+- churn, churning
+- civility, civilized
+- clad, cladding
+- clam, clams
+- clap, clapping
+- claw, clawed
+- cleanse, cleansing
+- cleric, clerical
+- clinch, clinched
+- clipped, clipping
+- cloak, cloaked
+- clocking, clocks
+- clog, clogged, clogging
+- clone, cloning
+- clot, clotting
+- clothe, clothed
+- clutter, cluttered
+- coated, coating
+- coherence, coherent
+- cohesion, cohesive
+- coil, coiled
+- collide, collider
+- colon, colonize, colonized
+- colourful, colouring
+- comb, combative, combed, combing
+- comforted, comforter, comforts
+- comical, comically
+- communal, commune
+- commute, commuter, commuting
+- compile, compiler, compiling
+- compose, composing
+- conceal, concealed
+- concede, conceding
+- conceit, conceited
+- confidant, confide
+- confine, confines
+- conjure, conjuring
+- conserve, conserved
+- consul, consulate
+- contend, contender
+- convene, convening
+- corrosion, corrosive
+- coven, covenant
+- covet, coveted
+- crab, crabs
+- crackle, crackling
+- cramp, cramped
+- crave, craved, craving
+- crawl, crawling
+- craze, crazed
+- creeping, creeps
+- crest, crested
+- crippled, crippling
+- crook, crooked
+- crowned, crowning
+- crusade, crusader
+- cuddle, cuddling
+- curate, curator
+- cured, curing
+- curl, curled, curling
+- cyclic, cyclical
+- cynic, cynical, cynicism
+- dangle, dangling
+- darken, darkened, darkening
+- dart, darts
+- dashed, dashing
+- daze, dazed
+- dazzle, dazzled, dazzling
+- decadence, decadent
+- deceit, deceitful
+- deception, deceptive
+- decode, decoder, decoding
+- decor, decorate, decorator
+- deduct, deduction
+- deepen, deepening
+- defect, defection, defective
+- defer, deference
+- deflated, deflation
+- deformed, deformity
+- degrade, degraded, degrading
+- dent, dented
+- depict, depicted, depicting, depiction
+- depleted, depletion
+- depraved, depravity
+- deprive, deprived
+- derive, deriving
+- deserted, desertion, deserts
+- despise, despised
+- deviate, deviation
+- devise, devising
+- devote, devotion
+- devour, devouring
+- dexter, dexterity
+- dictate, dictated, dictator
+- diffuse, diffuser, diffusion
+- digest, digestion, digestive
+- digit, digitally
+- diligence, diligent
+- dilute, diluted, dilution
+- dim, dimmed
+- disable, disabling
+- disarm, disarming
+- discard, discarded
+- disgrace, disgraced
+- disguise, disguised
+- disgust, disgusted
+- dismay, dismayed
+- disparate, disparity
+- dispense, dispensed, dispenser
+- dispersal, disperse, dispersed
+- dispose, disposed
+- disrupt, disrupted
+- dissect, dissected
+- distort, distorted
+- diver, divers
+- diverge, divergent
+- divert, diverted, diverting
+- dizziness, dizzy
+- doctoral, doctorate
+- doggie, doggy
+- domino, dominoes
+- doubtful, doubting
+- downward, downwards
+- drained, draining
+- dread, dreaded, dreadful
+- dribble, dribbling
+- drip, dripping
+- dub, dubbing
+- dumping, dumps
+- dwell, dwelling
+- dynamical, dynamism
+- eared, earring
+- eased, easing
+- edged, edging
+- eighties, eighty
+- eject, ejection
+- elicit, elicited
+- elongate, elongated
+- eloquence, eloquent
+- embodied, embody
+- emergence, emergent
+- eminence, eminent, eminently
+- emir, emirate
+- empower, empowered
+- emptiness, emptying
+- emulate, emulation, emulator
+- enact, enactment
+- enclose, enclosed, enclosing
+- encode, encoding
+- endowed, endowment
+- endurance, enduring
+- engraved, engraving
+- enlarge, enlarged
+- enlist, enlisting
+- enquire, enquirer
+- enroll, enrolment
+- ensue, ensuing
+- entice, enticing
+- equate, equating, equator
+- equip, equipping
+- erase, eraser
+- erect, erecting, erection
+- erode, eroded, eroding
+- erupt, eruption
+- escalate, escalator
+- etch, etched, etching
+- ether, ethereal
+- ethic, ethically
+- evasion, evasive
+- evict, eviction
+- evoke, evoked
+- exchanged, exchanger
+- exert, exertion
+- expanse, expansive
+- expel, expelling
+- exporter, exporting
+- extort, extortion
+- extremism, extremity
+- fable, fabled
+- facet, faceted
+- factual, factually
+- faded, fading
+- falcon, falconer
+- fanatic, fanatical
+- fancied, fanciful
+- fart, farting
+- fasten, fastened, fastening
+- fatality, fatally
+- fated, fateful
+- favorably, favored
+- feather, feathered
+- federally, federated
+- fervent, fervently
+- fetch, fetching
+- feudal, feudalism
+- fiddle, fiddling
+- fingered, fingering
+- flap, flapping, flaps
+- flatten, flattened
+- flaw, flawed
+- flirt, flirting
+- floored, flooring
+- flowered, flowering
+- focussed, focussing
+- foil, foiled
+- follies, folly
+- footed, footing
+- forage, foraging
+- forcible, forcibly
+- forego, foregoing
+- forensic, forensics
+- forested, forester
+- forfeit, forfeited
+- forged, forging
+- fortified, fortify
+- fray, frayed
+- frenzied, frenzy
+- fright, frightful
+- frosted, frosting
+- fueled, fueling
+- fulfil, fulfilled
+- fumble, fumbling
+- furnish, furnished
+- fuse, fused
+- futile, futility
+- gardener, gardening
+- geared, gearing
+- genital, genitals
+- genome, genomics
+- geologic, geology
+- glare, glaring
+- glaze, glazed
+- gleam, gleaming
+- glide, gliding
+- glorified, glorify
+- graded, grading
+- graft, grafting
+- grapple, grappling
+- grate, grating
+- graze, grazed, grazing
+- grease, greased
+- greet, greeting
+- grieve, grieving
+- grille, grilled, grilling
+- grin, grinning
+- grit, grits
+- groom, groomed, grooming
+- grouped, grouping
+- growl, growling
+- grumble, grumbling
+- gush, gushing
+- hammered, hammering
+- harass, harassed
+- harden, hardened, hardening
+- harmonic, harmonics
+- harness, harnessed
+- harrow, harrowing
+- hatched, hatching
+- haunt, haunting
+- heap, heaps
+- heave, heaving
+- hedge, hedging
+- hepatic, hepatitis
+- heretic, heretical
+- hexagon, hexagonal
+- hijack, hijacking
+- hinder, hindering
+- hippie, hippies, hippy
+- hipster, hipsters
+- hiss, hissing
+- hive, hives
+- hoard, hoarding
+- homely, homing
+- honorably, honoring
+- hooking, hooks
+- hoop, hoops
+- howl, howling
+- huddle, huddled
+- hum, humming
+- humane, humanism
+- humbled, humbling, humbly
+- hunch, hunched
+- hurdle, hurdles
+- hurl, hurling
+- hush, hushed
+- hydrate, hydrated, hydration
+- idealism, idealized, ideally
+- idle, idling
+- ignite, ignited, ignition
+- imitate, imitation
+- immerse, immersion
+- impair, impaired
+- impedance, impede, impeded, impeding
+- implant, implanted
+- importer, importing
+- impotence, impotent
+- impulse, impulsive
+- inaction, inactive
+- incense, incensed
+- incision, incisive
+- incur, incurable, incurring
+- induce, inducing
+- induction, inductive
+- indulge, indulgent, indulging
+- infer, inference
+- inflate, inflated
+- informant, informer, informing
+- infuse, infusion
+- ingest, ingestion
+- inhabit, inhabited
+- inhale, inhaler
+- inhibit, inhibited
+- inhuman, inhumane
+- innovate, innovator
+- inquire, inquirer, inquiring
+- insanely, insanity
+- insistent, insisting
+- insure, insured, insurer
+- interment, interred
+- intrude, intruder
+- intrusion, intrusive
+- intuition, intuitive
+- invade, invader, invading
+- invent, inventive
+- inverse, inversely, inversion
+- inverted, inverter
+- inward, inwards
+- ironed, ironing, irons
+- irritable, irritate, irritated
+- isolate, isolating
+- itch, itching
+- iteration, iterative
+- jag, jagged
+- jammed, jamming
+- jewel, jeweler
+- jog, jogging
+- juggle, juggling
+- kinetic, kinetics
+- kneel, kneeling
+- knit, knitted, knitting
+- knot, knotted
+- knuckle, knuckles
+- labored, laborer
+- lag, lagging
+- lament, lamented, lamenting
+- lapse, lapsed
+- lash, lashing
+- lateral, laterally
+- laurel, laurels
+- lawful, lawfully
+- lecturer, lecturing
+- leftover, leftovers
+- legality, legalize
+- lessen, lessened, lessening
+- liberally, liberate, liberated, liberator
+- lick, licked, licking
+- lighted, lightness
+- limp, limping
+- linger, lingering
+- liquidate, liquidity
+- liter, literal, literate
+- litter, littered
+- loathe, loathing
+- locale, locality, localized
+- locating, locator
+- lodging, lodgings
+- loosen, loosened, loosening
+- loot, looted, looting
+- lux, luxe
+- lyric, lyrical, lyrically
+- madden, maddening
+- magnet, magnetism
+- magnified, magnify
+- mailed, mailing
+- masked, masking
+- mastered, masterful, mastering
+- mated, mating
+- maternal, maternity
+- maxim, maximal, maximize
+- meddle, meddling
+- mediate, mediated, mediation, mediator
+- medic, medically
+- menace, menacing
+- mend, mending
+- merge, merged, merging
+- milled, milling
+- mingle, mingling
+- minimally, minimized
+- misuse, misused
+- mitigate, mitigated
+- modal, modality
+- modeled, modelling
+- modernism, modernity, modernize
+- mold, molded, molding
+- moor, mooring
+- mop, mopping
+- morale, morally, morals
+- morbid, morbidity
+- motivate, motivator
+- motoring, motorized
+- mould, moulding
+- mourn, mourning
+- muddle, muddled
+- mug, mugging
+- mumble, mumbling
+- murmur, murmuring
+- mute, muted
+- mutter, muttering
+- mystic, mystical, mysticism
+- mythic, mythical
+- nag, nagging
+- narrate, narration
+- narrowed, narrowing
+- navigable, navigate, navigator
+- negate, negation
+- nestle, nestled
+- netted, netting
+- neuron, neuronal
+- neuter, neutered
+- nineties, ninety
+- nod, nodding
+- nomad, nomadic
+- nominal, nominally, nominate
+- normality, normalize
+- nourish, nourished
+- nullified, nullify
+- numb, numbing, numbness
+- numeral, numeric, numerical
+- obedience, obedient
+- obligated, oblige, obliged
+- obscene, obscenity
+- observant, observing
+- obsess, obsessive
+- occupancy, occupant
+- offend, offender, offending
+- onward, onwards
+- ooze, oozing
+- oppress, oppressed
+- optic, optics
+- optimally, optimism, optimize
+- orbital, orbiter
+- ordinance, ordinate
+- organise, organiser
+- organism, organizer
+- orient, oriental
+- orphan, orphaned
+- outlaw, outlawed
+- outward, outwards
+- overseer, oversized
+- oxidation, oxidative, oxide, oxidized
+- padded, padding
+- pagan, paganism
+- pained, painfully
+- palatable, palate
+- pant, panting
+- parasite, parasitic
+- parted, parting
+- patched, patching
+- patented, patently
+- paternal, paternity
+- pave, paved, paving
+- peddle, peddling
+- peeled, peeling
+- peril, perilous
+- pervert, perverted
+- pickle, pickled
+- pierced, piercing
+- piles, piling
+- pinch, pinched
+- pinkie, pinky
+- pitted, pitting
+- pivot, pivotal
+- plaster, plastered
+- playful, playfully
+- plead, pleading
+- plough, ploughed, ploughing
+- plow, plowed, plowing
+- pluck, plucked
+- plumb, plumbing
+- plunder, plundered
+- plural, pluralism, plurality
+- poached, poaching
+- poetic, poetics
+- poise, poised
+- poke, poking
+- polished, polishing
+- politely, politic
+- pollute, polluted
+- ponder, pondering
+- populate, populism, populous
+- portray, portrayal
+- posture, posturing
+- practise, practised
+- preach, preaching
+- precede, preceding
+- predation, predator
+- presenter, presently
+- pretended, pretender
+- primed, priming
+- profane, profanity
+- profess, professed
+- prong, pronged
+- prop, props
+- propel, propeller
+- provoke, provoked, provoking
+- prune, pruning
+- pry, prying
+- puffed, puffing
+- puke, puking
+- puncture, punctured
+- purge, purging
+- purify, purifying
+- puzzled, puzzling
+- quilt, quilted
+- radiate, radiating, radiator
+- raft, rafts
+- rag, ragged
+- ramble, rambling
+- rant, ranting
+- ratified, ratify
+- ration, rationing
+- rattle, rattled, rattling
+- rave, raving
+- reassure, reassured
+- recess, recessed, recessive
+- recital, recite
+- reckon, reckoning
+- reclaim, reclaimed
+- recluse, reclusive
+- rectified, rectify
+- recycle, recycling
+- redeem, redeemed, redeemer, redeeming
+- refinance, refine, refining
+- reflex, reflexive
+- reformed, reformer
+- refresh, refreshed, refresher
+- refuel, refueling
+- regain, regaining
+- rehearsal, rehearse
+- rejoice, rejoicing
+- relieve, reliever
+- relive, reliving
+- relocate, relocated
+- removable, remover
+- renew, renewing
+- repay, repayment
+- repel, repellent
+- repress, repressed
+- reprisal, reprise
+- resent, resentful
+- reside, residency
+- residual, residue
+- resonance, resonant, resonate, resonator
+- rested, restful
+- retailer, retailing
+- retract, retracted
+- retrieval, retrieve, retriever
+- revere, revered, reverence
+- revert, reverting
+- revise, revising
+- revive, revived, reviving
+- revolt, revolting
+- revolve, revolved, revolver
+- rewrite, rewriting
+- rhyme, rhyming
+- rib, ribbed
+- riches, richness
+- riddle, riddled
+- rigged, rigging
+- rigid, rigidity
+- rigor, rigorous
+- ringed, ringing
+- roar, roaring
+- roasted, roasting
+- robotic, robotics
+- rocker, rockers
+- roofed, roofing
+- rot, rotted, rotting
+- rotate, rotated
+- rouse, rousing
+- rove, roving
+- rudely, rudeness
+- ruffle, ruffled
+- rug, rugged
+- rumble, rumbling
+- rust, rusted
+- sacked, sacking
+- saddle, saddled
+- sag, sagging
+- saline, salinity
+- satire, satirical
+- scaled, scaling
+- scar, scarred
+- scarce, scarcely
+- scissor, scissors
+- scold, scolding
+- scorched, scorching
+- scorn, scorned
+- scour, scoured, scouring
+- scramble, scrambled
+- scrape, scraping
+- scrub, scrubbed, scrubbing, scrubs
+- sculpt, sculpted
+- seared, searing
+- seasoned, seasoning
+- secretion, secretive
+- sedate, sedation
+- seduction, seductive
+- semantic, semantics
+- sensed, sensing
+- serene, serenity
+- sever, severance, severed, severing, severity
+- sew, sewed, sewing
+- shaded, shading
+- shadowed, shadowing
+- shamed, shameful
+- sharpen, sharpened
+- shatter, shattered
+- shaved, shaving
+- shear, shearing, shears
+- shelled, shelling
+- shielded, shielding
+- shingle, shingles
+- shiver, shivering
+- shorten, shortened
+- shred, shredded
+- shriek, shrieking
+- shrink, shrinking
+- shuffle, shuffling
+- sift, sifting
+- sighted, sighting
+- signified, signify
+- silenced, silencer
+- simmer, simmering
+- simulate, simulated, simulator
+- sizzle, sizzling
+- skeptic, skeptical
+- skew, skewed
+- skim, skimmed, skimming
+- slack, slacking, slacks
+- slant, slanted
+- slash, slashed, slashing
+- slay, slaying
+- sliced, slicing
+- sling, slinging
+- sloped, sloping
+- smack, smacking
+- smother, smothered
+- smuggle, smuggled, smuggling
+- sneeze, sneezing
+- snore, snoring
+- snort, snorting
+- soak, soaked, soaking
+- soar, soaring
+- sob, sobbing
+- soften, softened, softening
+- solder, soldering
+- soothe, soothing
+- sorely, soreness
+- spaced, spacing
+- spank, spanking
+- spar, sparring
+- sparkle, sparkling
+- sparse, sparsely
+- spatial, spatially
+- spec, specs
+- splashed, splashing
+- splice, splicing
+- splinter, splinters
+- spout, spouting
+- sprawl, sprawling
+- sprinkle, sprinkles
+- sprite, sprites
+- sprout, sprouted, sprouting
+- squared, squarely
+- squash, squashed
+- squat, squatting
+- squirt, squirting
+- stacked, stacks
+- stain, staining
+- stalk, stalked, stalking
+- stalling, stalls
+- startled, startling
+- starve, starved
+- steamed, steaming
+- stifle, stifled, stifling
+- stimulant, stimulate
+- stink, stinking
+- stirred, stirring
+- stitch, stitched, stitching
+- stocked, stocking
+- stoned, stoning
+- strained, straining
+- strait, straits
+- strand, stranded
+- strangle, strangled
+- stripe, striped, stripes
+- strive, striving
+- stud, studded
+- stun, stunned
+- stylist, stylistic
+- subdue, subdued
+- subside, subsidize
+- sulfur, sulfuric
+- summon, summoning, summons
+- sweating, sweats
+- sweeten, sweetened, sweetener
+- swell, swelled, swelling
+- symbolism, symbolize
+- tailed, tails
+- tailor, tailored, tailoring
+- taint, tainted
+- tame, tamed
+- tamper, tampering
+- tangle, tangled
+- tanned, tanning
+- taped, taping
+- taper, tapered, tapering
+- tapped, tapping, taps
+- tasteful, tasting
+- taunt, taunting
+- tease, teased, teasing
+- temperate, tempered
+- tempt, tempting
+- tether, tethered
+- thrash, thrashing
+- thrill, thrilling
+- thrive, thriving
+- thump, thumping
+- thwart, thwarted
+- tickle, tickling
+- tightness, tights
+- tile, tiled, tiling
+- tilt, tilted
+- ting, tinge
+- tingle, tingling
+- titan, titanic
+- tolerable, tolerant
+- torment, tormented
+- totaled, totality
+- trapping, trappings
+- traveler, traveller
+- tremble, trembling
+- trimmed, trimming, trimmings
+- troll, trolling
+- trumpet, trumpets
+- tuck, tucked
+- tumble, tumbling
+- twinkle, twinkling
+- twitch, twitching
+- uncover, uncovered
+- undies, undying
+- undo, undoing
+- undress, undressed
+- unfold, unfolding
+- unify, unifying
+- unload, unloaded, unloading
+- unusable, unused
+- unveil, unveiled, unveiling
+- uplift, uplifting
+- upward, upwards
+- urinal, urinate
+- usability, usable
+- utilise, utilised
+- validate, validated, validity
+- vandal, vandalism
+- vanish, vanished, vanishing
+- vapor, vapors
+- veil, veiled
+- venom, venomous
+- vented, venting
+- vest, vested
+- vex, vexed
+- vibrate, vibration, vibrator
+- vigil, vigilance, vigilant
+- vigor, vigorous
+- visualize, visually
+- vitality, vitally
+- voiced, voicing
+- vomit, vomiting
+- wail, wailing
+- wander, wanderer
+- wane, waning
+- warp, warped, warping
+- watered, watering
+- waver, wavering
+- waxed, waxing
+- weaken, weakened, weakening
+- weave, weaving
+- wed, wedded
+- wedge, wedged
+- weep, weeping
+- weighted, weighting
+- weld, welding
+- whack, whacked
+- wheeled, wheeling
+- whisper, whispered, whisperer
+- whiteness, whiting
+- widen, widening
+- widowed, widower
+- willful, willfully
+- winded, winding
+- wink, winking
+- wither, withered, withering, withers
+- wobble, wobbly
+- worsen, worsened, worsening
+- wrecked, wrecking
+- wrench, wrenching
+- wretch, wretched
+- wrinkle, wrinkled
+- yawn, yawning
+- yearn, yearning

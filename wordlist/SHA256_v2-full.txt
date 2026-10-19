@@ -1,0 +1,2 @@
+v2-full
+d4610605d28ebcc8efe24548b2cc38044618ee2f9147cafe6dbea770d6ebd0ab  wordlist_v2-full.tsv

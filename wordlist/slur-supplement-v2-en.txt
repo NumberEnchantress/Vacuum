@@ -1,0 +1,58 @@
+# Added at v2 review: slurs and demeaning terms that reached the v2 candidate pool.
+# Whole-word removal only. To keep one, add it to allow-list-en.txt.
+# Ethnic / racial / religious
+chink
+coolie
+dago
+darky
+gook
+gipsy
+kaffir
+kafir
+limey
+mulatto
+nigra
+pollack
+squaw
+wog
+yid
+shylock
+# Disability / insults on the same footing as moron, retard, cripple
+cretin
+gimp
+imbecile
+mongoloid
+# Sexuality / gender
+cissy
+nance
+sissy
+skank
+slut
+# Haiku review: slurs
+fagot
+hymie
+greaser
+blackface
+mammy
+spick
+welch
+papist
+popish
+redbone
+slapper
+wench
+hadji
+# Final review: offensive terms among the replacement words
+polack
+negroid
+homo
+sodomite
+popery
+imbecilic
+shyster
+# User review: sensitive terms removed
+oriental
+pansy
+pouf
+gringo
+aborigine

@@ -1,0 +1,46 @@
+{
+  "1 pool (skipping the top 0)": 150000,
+  "2 v1 filters (WordNet, base form, a-z 3-9, no names/abbrev)": 27427,
+  "3 after slurs, hand list, UK spellings": 26232,
+  "4 after dropping inflected forms": 23000,
+  "4 dropped through families-extra-en.txt": 53,
+  "5 families with 2+ members": 3057,
+  "5 after keeping one word per family": 18762,
+  "6 with a GloVe vector": 18628,
+  "6 affix families with 2+ members": 1231,
+  "6 after keeping one word per affix family": 16939,
+  "6 candidates entering pruning": 15700,
+  "6 lowest zipf among them": 1.81,
+  "6 candidate part of speech": {
+    "noun": 10982,
+    "adv": 129,
+    "verb": 2155,
+    "adj": 2434
+  },
+  "7 final": 10000,
+  "7 last pair removed, cosine": 0.4844,
+  "7 final zipf: mean / lowest": [
+    2.92,
+    1.81
+  ],
+  "7 final part of speech": {
+    "noun": 6988,
+    "verb": 1392,
+    "adj": 1552,
+    "adv": 68
+  },
+  "7 final spread (nearest neighbour)": {
+    "mean nearest-neighbour cosine": 0.4067,
+    "median": 0.4108,
+    "95th percentile": 0.4777,
+    "max": 0.4844
+  },
+  "v1 for comparison (nearest neighbour)": {
+    "mean nearest-neighbour cosine": 0.5267,
+    "median": 0.5173,
+    "95th percentile": 0.7453,
+    "max": 0.9438
+  },
+  "v1 words also in v2": 3572,
+  "final sha256": "d4610605d28ebcc8efe24548b2cc38044618ee2f9147cafe6dbea770d6ebd0ab"
+}

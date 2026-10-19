@@ -1,0 +1,62 @@
+word	pos	category	source
+arsehole	noun	ldnoobw	LDNOOBW (allow-listed)
+bareback	adj	ldnoobw	LDNOOBW (allow-listed)
+berk	noun	insult	vulgar-extra-en.tsv
+bimbo	noun	insult	vulgar-extra-en.tsv
+bollocks	verb	ldnoobw	LDNOOBW (allow-listed)
+boob	noun	ldnoobw	LDNOOBW (allow-listed)
+booger	noun	excretory	vulgar-extra-en.tsv
+bordello	noun	sex-work	vulgar-extra-en.tsv
+brothel	noun	sex-work	vulgar-extra-en.tsv
+damn	adj	profane	vulgar-extra-en.tsv
+dildo	noun	ldnoobw	LDNOOBW (allow-listed)
+dimwit	noun	insult	vulgar-extra-en.tsv
+douche	noun	insult	vulgar-extra-en.tsv
+dung	noun	excretory	vulgar-extra-en.tsv
+dweeb	noun	insult	vulgar-extra-en.tsv
+erotic	adj	ldnoobw	LDNOOBW (allow-listed)
+eunuch	noun	ldnoobw	LDNOOBW (allow-listed)
+fart	noun	excretory	vulgar-extra-en.tsv
+fatso	noun	insult	vulgar-extra-en.tsv
+fecal	adj	ldnoobw	LDNOOBW (allow-listed)
+fellatio	noun	ldnoobw	LDNOOBW (allow-listed)
+fetish	noun	sexual	vulgar-extra-en.tsv
+gigolo	noun	sex-work	vulgar-extra-en.tsv
+grope	verb	ldnoobw	LDNOOBW (allow-listed)
+harlot	noun	sex-work	vulgar-extra-en.tsv
+hymen	noun	anatomical	vulgar-extra-en.tsv
+idiocy	noun	insult	vulgar-extra-en.tsv
+idiot	noun	insult	vulgar-extra-en.tsv
+incest	noun	ldnoobw	LDNOOBW (allow-listed)
+kinky	adj	ldnoobw	LDNOOBW (allow-listed)
+lust	noun	sexual	vulgar-extra-en.tsv
+moronic	adj	insult	vulgar-extra-en.tsv
+nipple	noun	ldnoobw	LDNOOBW (allow-listed)
+nitwit	noun	insult	vulgar-extra-en.tsv
+nudity	noun	ldnoobw	LDNOOBW (allow-listed)
+orgasm	noun	ldnoobw	LDNOOBW (allow-listed)
+orgy	noun	ldnoobw	LDNOOBW (allow-listed)
+panty	noun	ldnoobw	LDNOOBW (allow-listed)
+phallic	adj	anatomical	vulgar-extra-en.tsv
+piss	verb	profane	vulgar-extra-en.tsv
+poop	noun	excretory	vulgar-extra-en.tsv
+porno	noun	ldnoobw	LDNOOBW (allow-listed)
+prat	noun	insult	vulgar-extra-en.tsv
+pubic	adj	anatomical	vulgar-extra-en.tsv
+puke	noun	excretory	vulgar-extra-en.tsv
+pussycat	noun	profane	substring 'pussy'
+putz	noun	insult	vulgar-extra-en.tsv
+scat	noun	ldnoobw	LDNOOBW (allow-listed)
+schmuck	noun	insult	vulgar-extra-en.tsv
+scrotum	noun	anatomical	vulgar-extra-en.tsv
+slut	noun	slur	slur-supplement-v2-en.txt (allow-listed)
+smut	noun	ldnoobw	LDNOOBW (allow-listed)
+spunk	noun	ldnoobw	LDNOOBW (allow-listed)
+testicle	noun	anatomical	vulgar-extra-en.tsv
+testis	noun	anatomical	vulgar-extra-en.tsv
+threesome	noun	ldnoobw	LDNOOBW (allow-listed)
+turd	noun	excretory	vulgar-extra-en.tsv
+twerp	noun	insult	vulgar-extra-en.tsv
+vaginal	adj	anatomical	vulgar-extra-en.tsv
+voyeur	noun	ldnoobw	LDNOOBW (allow-listed)
+wank	noun	ldnoobw	LDNOOBW (allow-listed)
